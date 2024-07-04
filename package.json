@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  },
+  "name": "skg-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makrimaria/skg-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makrimaria/skg-backend/issues"
+  },
+  "homepage": "https://github.com/makrimaria/skg-backend#readme",
+  "description": ""
+}
